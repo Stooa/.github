@@ -1,8 +1,8 @@
-<h1 style="text-align: center;"><img src="assets/img/stooa-logo.png" alt="Stooa logo" width="40" /><br /> Stooa</h1>
-
-![Stooa](assets/img/stooa.jpg)
-
 <center>
+
+<h1><img src="/profile/assets/img/stooa-logo.png" alt="Stooa logo" width="40" /><br /> Stooa</h1>
+
+![Stooa](/profile/assets/img/stooa.jpg)
 
 ## The online fishbowl tool
 
