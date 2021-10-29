@@ -12,3 +12,9 @@ A fishbowl is a **group dynamic** that facilitates conversations, debates and an
 
 It is an ideal dialogue method for communities, educational environements, or companies looking to improve their employee experience.
 </center>
+
+## Links
+
+* 🏛 [Stooa](https://stooa.com): Stooa, where the magic of unconferenced communication happens.
+* 📚 [Documentation](https://docs.stooa.com): Documentation for users and contributors.
+* 🙋‍♀️ [Community](https://github.com/Stooa/Stooa/discussions): Our github discussions where the community and team interacts!
