@@ -1,6 +1,4 @@
-<h1 style="text-align: center;"><img src="https://raw.githubusercontent.com/Stooa/.github/main/profile/assets/img/stooa-logo.png" alt="Stooa logo" width="40" /><br /> Stooa</h1>
-
-![Stooa](https://raw.githubusercontent.com/Stooa/.github/main/profile/assets/img/stooa.jpg)
+![Stooa](https://raw.githubusercontent.com/Stooa/.github/main/profile/assets/img/stooa-smaller.png)
 
 <center>
 
@@ -14,3 +12,9 @@ A fishbowl is a **group dynamic** that facilitates conversations, debates and an
 
 It is an ideal dialogue method for communities, educational environements, or companies looking to improve their employee experience.
 </center>
+
+## Links
+
+* 🏛 [Stooa](https://stooa.com): Stooa, where the magic of unconferenced communication happens.
+* 📚 [Documentation](https://docs.stooa.com): Documentation for users and contributors.
+* 🙋‍♀️ [Community](https://github.com/Stooa/Stooa/discussions): Our github discussions where the community and team interacts!
