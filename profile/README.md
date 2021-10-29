@@ -1,6 +1,4 @@
-<h1 style="text-align: center;"><img src="https://raw.githubusercontent.com/Stooa/.github/main/profile/assets/img/stooa-logo.png" alt="Stooa logo" width="40" /><br /> Stooa</h1>
-
-![Stooa](https://raw.githubusercontent.com/Stooa/.github/main/profile/assets/img/stooa.jpg)
+![Stooa](https://raw.githubusercontent.com/Stooa/.github/main/profile/assets/img/stooa-smaller.png)
 
 <center>
 
