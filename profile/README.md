@@ -16,5 +16,5 @@ It is an ideal dialogue method for communities, educational environements, or co
 ## Links
 
 * 🏛 [Stooa](https://stooa.com): The free & open source fishbowl solution, where online unconference events happen.
-* 📚 [Documentation](https://docs.stooa.com): All the information about Stooa for users and contributors.
+* 📚 [Documentation](https://docs.stooa.com): Information for users and contributors about Stooa.
 * 🙋‍♀️ [Community](https://github.com/Stooa/Stooa/discussions): Our github discussions where the community and team interacts!
